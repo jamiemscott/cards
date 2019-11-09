@@ -1,0 +1,26 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "a javascript cards experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiemscott/cards.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "html5",
+    "css",
+    "sass"
+  ],
+  "author": "Jamie M Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamiemscott/cards/issues"
+  },
+  "homepage": "https://github.com/jamiemscott/cards#readme"
+}
