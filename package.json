@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/jamiemscott/cards/issues"
   },
-  "homepage": "https://github.com/jamiemscott/cards#readme"
+  "homepage": "https://github.com/jamiemscott/cards#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {}
 }
